@@ -1,0 +1,1 @@
+This is a program I wrote for a school assignment. You can use it to create/save/load a text file that contains a formatted playlist of songs. You can use that text file on websites like https://www.tunemymusic.com/
